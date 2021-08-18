@@ -11,10 +11,6 @@ sections:
       - label: Stackbit Docs
         url: 'https://www.stackbit.com/docs/'
         style: button
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        type: action
   - type: feature_section
     title: This is heading
     content: |-
